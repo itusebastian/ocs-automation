@@ -1,0 +1,39 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test and coverage
+htmlcov/
+.coverage
+.cache/
+
+# Data and output
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+
+# Environment
+.env
+.env.*
+
+# Misc
+*.swp
+*.bak
+
+# Ignore sample data files
+/data/*
+!/data/.gitkeep
